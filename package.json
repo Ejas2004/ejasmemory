@@ -1,0 +1,17 @@
+{
+  "name": "prggamee",
+  "version": "1.0.0",
+  "main": "n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "add": "^2.0.6",
+    "confetti-js": "^0.0.18",
+    "js-confetti": "^0.12.0",
+    "yarn": "^1.22.22"
+  }
+}
